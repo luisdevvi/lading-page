@@ -110,3 +110,28 @@ body {
   border-radius: 10px;
   margin: 0 30px;
 }
+
+.quote {
+  height: 400px;
+  background-color: #e5e7eb;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote p {
+  font-size: 36px;
+  font-weight: 200;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote h3 {
+  margin-left: 560px;
+}
+
+.quote-section {
+  width: 800px;
+}
