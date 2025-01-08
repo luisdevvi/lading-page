@@ -135,3 +135,38 @@ body {
 .quote-section {
   width: 800px;
 }
+
+.cta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.cta-container {
+  padding: 50px 120px;
+  border-radius: 8px;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3882f6;
+}
+
+.cta-container-left-side p {
+  color: #F9FaF8;
+  margin: 0;
+}
+
+.cta-container-left-side #tittle {
+  font-weight: bold;
+}
+
+.cta-container-right-side a {
+  border: 2px solid #F9FaF8;
+  border-radius: 8px;
+  padding: 5px 25px;
+  color: #F9FaF8;
+  text-decoration: none;
+}
