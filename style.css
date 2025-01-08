@@ -170,3 +170,12 @@ body {
   color: #F9FaF8;
   text-decoration: none;
 }
+
+.footer {
+  background-color: #1f2937;
+  height: 80px;
+  color: #F9FaF8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
